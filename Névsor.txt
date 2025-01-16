@@ -1,4 +1,11 @@
 2009-06-22
+2009.08.02
+2069.42.69
+2010.01.24
+2009.08.17
+2009.03.04
+2010.03.28
+2009.32.56
 Figder Márk
 Hegymegi Máté
 Csankó Dominik
@@ -8,12 +15,16 @@ Figder_Márk
 Csizmazia.Milán
 Boksay Levente
 Hegymegi.Máté
+Glázer Ármin
 Schmidt Nándor
 Gocsik_Dávid
 Fazekas_Mátyás
 Jedlik_Ányos
+Kovács_Béla
 Buda Bálint
 Idesz.Marcell
 Szabó János
 Nits_László
+Győr Norbert
 Csizmadia Márk
+Huszár Gergely Ákos
