@@ -1,4 +1,6 @@
+
 2010.03.28
+2009.32.56
 Figder Márk
 Hegymegi Máté
 Csankó Dominik
@@ -8,12 +10,16 @@ Figder_Márk
 Csizmazia.Milán
 Boksay Levente
 Hegymegi.Máté
+Glázer Ármin
 Schmidt Nándor
 Gocsik_Dávid
 Fazekas_Mátyás
 Jedlik_Ányos
+Kovács_Béla
 Buda Bálint
 Idesz.Marcell
 Szabó János
 Nits_László
+Győr Norbert
 Csizmadia Márk
+Huszár Gergely Ákos
