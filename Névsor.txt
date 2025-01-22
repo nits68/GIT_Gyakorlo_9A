@@ -1,3 +1,4 @@
+2009.08.29.
 1963.2.29
 2009.07.17
 2009.10.26
@@ -17,8 +18,6 @@ Csankó Dominik
 Csehi Dániel Tamás
 Valdinger Dávid
 Figder_Márk
-Csizmazia.Milán
-Boksay Levente
 Hegymegi.Máté
 Glázer Ármin
 Schmidt Nándor
@@ -26,8 +25,8 @@ Gocsik_Dávid
 Fazekas_Mátyás
 Jedlik_Ányos
 Kovács_Béla
-Buda Bálint
 Idesz.Marcell
+Nits_László
 Szabó János
 Nits_László
 Győr Norbert
